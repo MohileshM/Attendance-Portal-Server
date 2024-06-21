@@ -3,7 +3,6 @@ This project is back-end part of Attendance Portal Project where student can reg
 and additionally added task submission and validation
 
 Used Express.js framework,jsonwebtoken for Authentication and MongoDB for storing the data.
-
 Used bcryptjs for password hashing.
 
- 
+NOTE : This project deployed for both student and mentor side to make it easily understandable
