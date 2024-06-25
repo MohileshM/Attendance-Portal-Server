@@ -1,3 +1,6 @@
+TEST USING THIS EMAIL
+email    : test@gmail.com
+password : 12345678
 
 This project is back-end part of Attendance Portal Project where student can register,login,give attendance ,check attendance
 and additionally added task submission and validation (Mentor for rating the task)
